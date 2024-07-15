@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    justify-content: center;
+    background-image: image("R.jpg");
+    min-height: 100vh;
+    
+    
+}
+ul{
+    color: aliceblue;
+  }
+  ol{
+    color: azure;
+  }
+
+
+
+  .at{
+    padding-left: 550px;
+    
+    margin-top: -300px;
+    
+    
+   }
+
+h2{
+    font-size: 25px;
+    color: whitesmoke;
+    letter-spacing: 3px;
+    text-decoration: underline;
+}
+
+hr{
+        height: 20px;
+        border-color: white;
+        border-width: 20px;
+        border-radius: 20px;
+        
+}
+
+img{
+    height: 300px;
+    width: 400px;
+   align-items: center;
+   display: flex;
+   
+   margin-left: 50px;
+}
+
+.btn{
+    word-spacing: 90px;
+    padding-top: 25px;
+    padding-right: 10px;
+    color: white;
+    text-align: center;
+}
+.btn button{
+    align-items: center;
+    border: transparent;
+    border-radius: 10px;
+    background: transparent;
+    padding-left: 20px;
+    color: white;
+}
+button :hover{
+    color: lightblue;
+}
+
+
+a{
+    color: white;
+    text-decoration: unset;
+    font-size: 20px;
+
+ 
+  }

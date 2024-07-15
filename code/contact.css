@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ct{
+    padding-left: 100px;
+    color: white;
+    
+  }
+hr{
+    height: 20px;
+    border-color: white;
+    border-width: 20px;
+    border-radius: 20px;
+    
+}
+
+.btn{
+    word-spacing: 90px;
+    padding-top: 25px;
+    padding-right: 10px;
+    color: white;
+    text-align: right;
+    margin-right: 20px;
+}
+.btn button{
+    
+    border: transparent;
+    border-radius: 10px;
+    background: transparent;
+    padding-left: 20px;
+    color: white;
+}
+button :hover{
+    color: lightblue;
+}
+
+
+a{
+    color: white;
+    text-decoration: unset;
+    font-size: 20px;
+
+ 
+  }
+
+  
